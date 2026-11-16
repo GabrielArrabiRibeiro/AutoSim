@@ -8,13 +8,13 @@ O AutoSim permite informar o veículo, o valor, a entrada, a taxa de juros mensa
 
 ## Objetivo
 
-Projeto desenvolvido para uma atividade acadêmica de Front-end, demonstrando HTML5 semântico, CSS3 responsivo (mobile-first) e JavaScript moderno (ES6+) com manipulação do DOM, eventos, validação e persistência de preferências.
+Projeto desenvolvido para uma atividade acadêmica de Front-end, demonstrando HTML semântico, CSS responsivo (mobile-first) e JavaScript com manipulação do DOM, eventos, validação e persistência de preferências.
 
 ## Tecnologias utilizadas
 
-- HTML5
-- CSS3 (variáveis CSS, Grid, Flexbox, media queries)
-- JavaScript ES6+ (sem frameworks ou bibliotecas)
+- HTML
+- CSS (variáveis CSS, Grid, Flexbox, media queries)
+- JavaScript (sem frameworks ou bibliotecas)
 - Google Fonts (Inter e Manrope), de uso opcional: sem elas, a aplicação usa fontes do sistema
 - Ícones SVG inline
 
